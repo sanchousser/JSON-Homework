@@ -1,0 +1,33 @@
+[
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "release_year": 2001,
+        "director": "Peter Jackson",
+        "genre": "Fantasy",
+        "actors": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Viggo Mortensen",
+            "Liv Tyler",
+            "Sean Astin",
+            "Cate Blanchett",
+            "Orlando Bloom",
+            "John Rhys-Davies"
+        ]
+    },
+    {
+        "title": "Star Wars: Episode III - Revenge of the Sith",
+        "release_year": 2005,
+        "director": "George Lucas",
+        "genre": "Science Fiction",
+        "actors": [
+            "Ewan McGregor",
+            "Natalie Portman",
+            "Hayden Christensen",
+            "Ian McDiarmid",
+            "Samuel L. Jackson",
+            "Christopher Lee",
+            "Jimmy Smits"
+        ]
+    }
+]
